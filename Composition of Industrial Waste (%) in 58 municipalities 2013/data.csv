@@ -1,0 +1,473 @@
+Municipality,Composition,Percent of Industrial Waste
+Amargadhi,Organic Waste,13.36
+Amargadhi,Plastics,13.14
+Amargadhi,Paper and Paper Products,63.74
+Amargadhi,Glass,1.12
+Amargadhi,Metals,5.68
+Amargadhi,Textiles,0.98
+Amargadhi,Rubber and Leather,1.06
+Amargadhi,Others,0.92
+Baglung,Organic Waste,25.7
+Baglung,Plastics,22.67
+Baglung,Paper and Paper Products,46.96
+Baglung,Glass,0.41
+Baglung,Metals,0.99
+Baglung,Textiles,0.34
+Baglung,Rubber and Leather,0.04
+Baglung,Others,2.9
+Banepa,Organic Waste,15.13
+Banepa,Plastics,31.17
+Banepa,Paper and Paper Products,42.75
+Banepa,Glass,2.47
+Banepa,Metals,3.9
+Banepa,Textiles,0.24
+Banepa,Rubber and Leather,4.33
+Banepa,Others,0
+Bhadrapur,Organic Waste,16.52
+Bhadrapur,Plastics,5.72
+Bhadrapur,Paper and Paper Products,77.76
+Bhadrapur,Glass,0
+Bhadrapur,Metals,0
+Bhadrapur,Textiles,0
+Bhadrapur,Rubber and Leather,0
+Bhadrapur,Others,0
+Bhaktapur,Organic Waste,30.35
+Bhaktapur,Plastics,18.77
+Bhaktapur,Paper and Paper Products,29.35
+Bhaktapur,Glass,2.95
+Bhaktapur,Metals,3.15
+Bhaktapur,Textiles,3.46
+Bhaktapur,Rubber and Leather,1.68
+Bhaktapur,Others,10.29
+Bharatpur,Organic Waste,30.84
+Bharatpur,Plastics,18.89
+Bharatpur,Paper and Paper Products,49.37
+Bharatpur,Glass,0
+Bharatpur,Metals,0.38
+Bharatpur,Textiles,0
+Bharatpur,Rubber and Leather,0.3
+Bharatpur,Others,0.22
+Bhimdatta,Organic Waste,24.3
+Bhimdatta,Plastics,12.05
+Bhimdatta,Paper and Paper Products,32.63
+Bhimdatta,Glass,0.42
+Bhimdatta,Metals,0.41
+Bhimdatta,Textiles,0.92
+Bhimdatta,Rubber and Leather,1.19
+Bhimdatta,Others,28.08
+Bhimeshwor,Organic Waste,11.74
+Bhimeshwor,Plastics,4.97
+Bhimeshwor,Paper and Paper Products,46.21
+Bhimeshwor,Glass,0
+Bhimeshwor,Metals,0.12
+Bhimeshwor,Textiles,0.12
+Bhimeshwor,Rubber and Leather,0
+Bhimeshwor,Others,36.83
+Bidur,Organic Waste,15.17
+Bidur,Plastics,24.54
+Bidur,Paper and Paper Products,55.53
+Bidur,Glass,0
+Bidur,Metals,1.49
+Bidur,Textiles,1.49
+Bidur,Rubber and Leather,1.79
+Bidur,Others,0
+Biratnagar SMPC,Organic Waste,41.56
+Biratnagar SMPC,Plastics,19.48
+Biratnagar SMPC,Paper and Paper Products,35.49
+Biratnagar SMPC,Glass,0
+Biratnagar SMPC,Metals,1.54
+Biratnagar SMPC,Textiles,0.39
+Biratnagar SMPC,Rubber and Leather,0
+Biratnagar SMPC,Others,1.54
+Birendranagar,Organic Waste,24.62
+Birendranagar,Plastics,21.84
+Birendranagar,Paper and Paper Products,51.41
+Birendranagar,Glass,1.78
+Birendranagar,Metals,0.03
+Birendranagar,Textiles,0.2
+Birendranagar,Rubber and Leather,0
+Birendranagar,Others,0.12
+Birgunj SMPC,Organic Waste,16.99
+Birgunj SMPC,Plastics,21.54
+Birgunj SMPC,Paper and Paper Products,50.18
+Birgunj SMPC,Glass,0
+Birgunj SMPC,Metals,0
+Birgunj SMPC,Textiles,0
+Birgunj SMPC,Rubber and Leather,0
+Birgunj SMPC,Others,11.29
+Butwal,Organic Waste,24.48
+Butwal,Plastics,17.32
+Butwal,Paper and Paper Products,29.55
+Butwal,Glass,0
+Butwal,Metals,0.35
+Butwal,Textiles,2.36
+Butwal,Rubber and Leather,2.58
+Butwal,Others,23.37
+Byas,Organic Waste,42.11
+Byas,Plastics,21.02
+Byas,Paper and Paper Products,29.9
+Byas,Glass,1.63
+Byas,Metals,0.69
+Byas,Textiles,0.72
+Byas,Rubber and Leather,0.61
+Byas,Others,3.33
+Damak,Organic Waste,38.04
+Damak,Plastics,12.16
+Damak,Paper and Paper Products,20.95
+Damak,Glass,0.02
+Damak,Metals,8
+Damak,Textiles,1.66
+Damak,Rubber and Leather,0.61
+Damak,Others,18.56
+Dasharathchanda,Organic Waste,10.2
+Dasharathchanda,Plastics,11.16
+Dasharathchanda,Paper and Paper Products,36.31
+Dasharathchanda,Glass,7.97
+Dasharathchanda,Metals,12.71
+Dasharathchanda,Textiles,5.44
+Dasharathchanda,Rubber and Leather,5.01
+Dasharathchanda,Others,11.21
+Dhangadhi,Organic Waste,16.36
+Dhangadhi,Plastics,17.59
+Dhangadhi,Paper and Paper Products,50.89
+Dhangadhi,Glass,0.73
+Dhangadhi,Metals,1.99
+Dhangadhi,Textiles,0.27
+Dhangadhi,Rubber and Leather,0
+Dhangadhi,Others,12.17
+Dhankuta,Organic Waste,16.9
+Dhankuta,Plastics,20.8
+Dhankuta,Paper and Paper Products,40.25
+Dhankuta,Glass,0
+Dhankuta,Metals,0.46
+Dhankuta,Textiles,0
+Dhankuta,Rubber and Leather,0.46
+Dhankuta,Others,21.12
+Dharan,Organic Waste,22.39
+Dharan,Plastics,21.29
+Dharan,Paper and Paper Products,37.81
+Dharan,Glass,3.7
+Dharan,Metals,3.89
+Dharan,Textiles,2.26
+Dharan,Rubber and Leather,1.18
+Dharan,Others,7.47
+Dhulikhel,Organic Waste,36.25
+Dhulikhel,Plastics,15.22
+Dhulikhel,Paper and Paper Products,48.53
+Dhulikhel,Glass,0
+Dhulikhel,Metals,0
+Dhulikhel,Textiles,0
+Dhulikhel,Rubber and Leather,0
+Dhulikhel,Others,0
+Dipayal Silgadhi,Organic Waste,18.3
+Dipayal Silgadhi,Plastics,27.93
+Dipayal Silgadhi,Paper and Paper Products,34.71
+Dipayal Silgadhi,Glass,3.88
+Dipayal Silgadhi,Metals,1.21
+Dipayal Silgadhi,Textiles,0.92
+Dipayal Silgadhi,Rubber and Leather,1.61
+Dipayal Silgadhi,Others,11.43
+Gaur,Organic Waste,22.42
+Gaur,Plastics,6.59
+Gaur,Paper and Paper Products,21.87
+Gaur,Glass,4.44
+Gaur,Metals,0
+Gaur,Textiles,0
+Gaur,Rubber and Leather,0
+Gaur,Others,44.68
+Ghorahi,Organic Waste,21.38
+Ghorahi,Plastics,17.32
+Ghorahi,Paper and Paper Products,39.33
+Ghorahi,Glass,2.5
+Ghorahi,Metals,0.43
+Ghorahi,Textiles,3.67
+Ghorahi,Rubber and Leather,0.39
+Ghorahi,Others,14.98
+Gorkha,Organic Waste,18.03
+Gorkha,Plastics,26.47
+Gorkha,Paper and Paper Products,45.55
+Gorkha,Glass,1.82
+Gorkha,Metals,2.5
+Gorkha,Textiles,0
+Gorkha,Rubber and Leather,0
+Gorkha,Others,5.64
+Gulariya,Organic Waste,8.95
+Gulariya,Plastics,11.28
+Gulariya,Paper and Paper Products,56.74
+Gulariya,Glass,0.08
+Gulariya,Metals,0
+Gulariya,Textiles,0
+Gulariya,Rubber and Leather,0.62
+Gulariya,Others,22.33
+Hetuda,Organic Waste,8.01
+Hetuda,Plastics,29.61
+Hetuda,Paper and Paper Products,49.09
+Hetuda,Glass,0.98
+Hetuda,Metals,1.33
+Hetuda,Textiles,1.3
+Hetuda,Rubber and Leather,0.08
+Hetuda,Others,9.61
+Ilam,Organic Waste,60.1
+Ilam,Plastics,6.83
+Ilam,Paper and Paper Products,16.34
+Ilam,Glass,1.96
+Ilam,Metals,0.97
+Ilam,Textiles,0.88
+Ilam,Rubber and Leather,0.82
+Ilam,Others,12.1
+Inaruwa,Organic Waste,1.5
+Inaruwa,Plastics,4
+Inaruwa,Paper and Paper Products,40.8
+Inaruwa,Glass,0
+Inaruwa,Metals,0.59
+Inaruwa,Textiles,0.88
+Inaruwa,Rubber and Leather,0
+Inaruwa,Others,52.23
+Itahari,Organic Waste,25.64
+Itahari,Plastics,24.9
+Itahari,Paper and Paper Products,40.13
+Itahari,Glass,2.95
+Itahari,Metals,0
+Itahari,Textiles,0
+Itahari,Rubber and Leather,0
+Itahari,Others,6.38
+Jaleshwor,Organic Waste,17.09
+Jaleshwor,Plastics,35.7
+Jaleshwor,Paper and Paper Products,46.44
+Jaleshwor,Glass,0.77
+Jaleshwor,Metals,0
+Jaleshwor,Textiles,0
+Jaleshwor,Rubber and Leather,0
+Jaleshwor,Others,0
+Janakpur,Organic Waste,11.23
+Janakpur,Plastics,25.58
+Janakpur,Paper and Paper Products,43.38
+Janakpur,Glass,0
+Janakpur,Metals,0
+Janakpur,Textiles,0
+Janakpur,Rubber and Leather,0
+Janakpur,Others,19.81
+Kalaiya,Organic Waste,9.98
+Kalaiya,Plastics,11.24
+Kalaiya,Paper and Paper Products,36.08
+Kalaiya,Glass,0
+Kalaiya,Metals,7.51
+Kalaiya,Textiles,1.39
+Kalaiya,Rubber and Leather,0.47
+Kalaiya,Others,33.33
+Kamalamai,Organic Waste,12.28
+Kamalamai,Plastics,17.48
+Kamalamai,Paper and Paper Products,50.12
+Kamalamai,Glass,4.54
+Kamalamai,Metals,1.93
+Kamalamai,Textiles,0
+Kamalamai,Rubber and Leather,1.74
+Kamalamai,Others,11.91
+Kapilvastu,Organic Waste,0
+Kapilvastu,Plastics,16.63
+Kapilvastu,Paper and Paper Products,83.37
+Kapilvastu,Glass,0
+Kapilvastu,Metals,0
+Kapilvastu,Textiles,0
+Kapilvastu,Rubber and Leather,0
+Kapilvastu,Others,0
+Kathmandu MPC,Organic Waste,20.29
+Kathmandu MPC,Plastics,24.55
+Kathmandu MPC,Paper and Paper Products,44.28
+Kathmandu MPC,Glass,1.37
+Kathmandu MPC,Metals,1.13
+Kathmandu MPC,Textiles,3.89
+Kathmandu MPC,Rubber and Leather,1.14
+Kathmandu MPC,Others,3.35
+Khandbari,Organic Waste,4.94
+Khandbari,Plastics,22.7
+Khandbari,Paper and Paper Products,58.79
+Khandbari,Glass,0.91
+Khandbari,Metals,1.18
+Khandbari,Textiles,3.18
+Khandbari,Rubber and Leather,0.99
+Khandbari,Others,7.31
+Kirtipur,Organic Waste,22.13
+Kirtipur,Plastics,14.31
+Kirtipur,Paper and Paper Products,59.55
+Kirtipur,Glass,3.25
+Kirtipur,Metals,0
+Kirtipur,Textiles,0.77
+Kirtipur,Rubber and Leather,0
+Kirtipur,Others,0
+Lahan,Organic Waste,27.95
+Lahan,Plastics,14.3
+Lahan,Paper and Paper Products,50.87
+Lahan,Glass,0.01
+Lahan,Metals,1.17
+Lahan,Textiles,0
+Lahan,Rubber and Leather,0.52
+Lahan,Others,5.19
+Lalitpur SMPC,Organic Waste,14.53
+Lalitpur SMPC,Plastics,23.05
+Lalitpur SMPC,Paper and Paper Products,41.05
+Lalitpur SMPC,Glass,0.11
+Lalitpur SMPC,Metals,1.43
+Lalitpur SMPC,Textiles,0
+Lalitpur SMPC,Rubber and Leather,0.19
+Lalitpur SMPC,Others,19.64
+Lekhnath,Organic Waste,11.19
+Lekhnath,Plastics,11.51
+Lekhnath,Paper and Paper Products,48.58
+Lekhnath,Glass,6.17
+Lekhnath,Metals,1.92
+Lekhnath,Textiles,0
+Lekhnath,Rubber and Leather,2.39
+Lekhnath,Others,18.24
+Madhyapur Thimi,Organic Waste,0.77
+Madhyapur Thimi,Plastics,19.18
+Madhyapur Thimi,Paper and Paper Products,60.2
+Madhyapur Thimi,Glass,0.1
+Madhyapur Thimi,Metals,0
+Madhyapur Thimi,Textiles,0
+Madhyapur Thimi,Rubber and Leather,0.83
+Madhyapur Thimi,Others,18.92
+Malangawa,Organic Waste,5.85
+Malangawa,Plastics,21.57
+Malangawa,Paper and Paper Products,28.23
+Malangawa,Glass,5.7
+Malangawa,Metals,0.73
+Malangawa,Textiles,4.78
+Malangawa,Rubber and Leather,0
+Malangawa,Others,33.14
+Mechinagar,Organic Waste,24.74
+Mechinagar,Plastics,15.32
+Mechinagar,Paper and Paper Products,44.62
+Mechinagar,Glass,5.65
+Mechinagar,Metals,0
+Mechinagar,Textiles,0
+Mechinagar,Rubber and Leather,3.89
+Mechinagar,Others,5.78
+Narayan,Organic Waste,16.56
+Narayan,Plastics,29.03
+Narayan,Paper and Paper Products,54.41
+Narayan,Glass,0
+Narayan,Metals,0
+Narayan,Textiles,0
+Narayan,Rubber and Leather,0
+Narayan,Others,0
+Nepalgunj,Organic Waste,39.3
+Nepalgunj,Plastics,13.02
+Nepalgunj,Paper and Paper Products,44.24
+Nepalgunj,Glass,0
+Nepalgunj,Metals,1.92
+Nepalgunj,Textiles,0
+Nepalgunj,Rubber and Leather,0
+Nepalgunj,Others,1.53
+Panauti,Organic Waste,33.67
+Panauti,Plastics,16.54
+Panauti,Paper and Paper Products,44.43
+Panauti,Glass,0.07
+Panauti,Metals,0
+Panauti,Textiles,3.01
+Panauti,Rubber and Leather,0.65
+Panauti,Others,1.63
+Pokhara SMPC,Organic Waste,26.19
+Pokhara SMPC,Plastics,8.14
+Pokhara SMPC,Paper and Paper Products,65.35
+Pokhara SMPC,Glass,0
+Pokhara SMPC,Metals,0
+Pokhara SMPC,Textiles,0
+Pokhara SMPC,Rubber and Leather,0
+Pokhara SMPC,Others,0.32
+Putalibazar,Organic Waste,1.63
+Putalibazar,Plastics,33.64
+Putalibazar,Paper and Paper Products,53.04
+Putalibazar,Glass,0
+Putalibazar,Metals,0
+Putalibazar,Textiles,0
+Putalibazar,Rubber and Leather,0
+Putalibazar,Others,11.69
+Rajbiraj,Organic Waste,12.32
+Rajbiraj,Plastics,10.51
+Rajbiraj,Paper and Paper Products,40.09
+Rajbiraj,Glass,1.13
+Rajbiraj,Metals,0.51
+Rajbiraj,Textiles,1.03
+Rajbiraj,Rubber and Leather,0.12
+Rajbiraj,Others,34.3
+Ramgram,Organic Waste,19.84
+Ramgram,Plastics,7.28
+Ramgram,Paper and Paper Products,31.47
+Ramgram,Glass,10.62
+Ramgram,Metals,1.44
+Ramgram,Textiles,0.06
+Ramgram,Rubber and Leather,0.38
+Ramgram,Others,28.92
+Ratnanagar,Organic Waste,10.26
+Ratnanagar,Plastics,18.94
+Ratnanagar,Paper and Paper Products,60.31
+Ratnanagar,Glass,0.2
+Ratnanagar,Metals,0.62
+Ratnanagar,Textiles,0.21
+Ratnanagar,Rubber and Leather,0.93
+Ratnanagar,Others,8.53
+Sidharthanagar,Organic Waste,1.08
+Sidharthanagar,Plastics,23.21
+Sidharthanagar,Paper and Paper Products,75.71
+Sidharthanagar,Glass,0
+Sidharthanagar,Metals,0
+Sidharthanagar,Textiles,0
+Sidharthanagar,Rubber and Leather,0
+Sidharthanagar,Others,0
+Siraha,Organic Waste,29.1
+Siraha,Plastics,4.17
+Siraha,Paper and Paper Products,43.19
+Siraha,Glass,0.27
+Siraha,Metals,2.57
+Siraha,Textiles,1.56
+Siraha,Rubber and Leather,2.66
+Siraha,Others,16.49
+Tansen,Organic Waste,22.92
+Tansen,Plastics,11.25
+Tansen,Paper and Paper Products,24.05
+Tansen,Glass,5.16
+Tansen,Metals,1.91
+Tansen,Textiles,4.02
+Tansen,Rubber and Leather,3.75
+Tansen,Others,26.94
+Tikapur,Organic Waste,27.92
+Tikapur,Plastics,19.16
+Tikapur,Paper and Paper Products,47
+Tikapur,Glass,0
+Tikapur,Metals,4.6
+Tikapur,Textiles,0
+Tikapur,Rubber and Leather,0
+Tikapur,Others,1.32
+Triyuga,Organic Waste,10.89
+Triyuga,Plastics,14.34
+Triyuga,Paper and Paper Products,67.24
+Triyuga,Glass,0
+Triyuga,Metals,3.21
+Triyuga,Textiles,1.46
+Triyuga,Rubber and Leather,0.45
+Triyuga,Others,2.41
+Tulsipur,Organic Waste,2.94
+Tulsipur,Plastics,20.53
+Tulsipur,Paper and Paper Products,56.97
+Tulsipur,Glass,0
+Tulsipur,Metals,2.31
+Tulsipur,Textiles,0
+Tulsipur,Rubber and Leather,0
+Tulsipur,Others,17.26
+Waling,Organic Waste,41.57
+Waling,Plastics,10.99
+Waling,Paper and Paper Products,17.08
+Waling,Glass,2.12
+Waling,Metals,1.91
+Waling,Textiles,0.92
+Waling,Rubber and Leather,0.36
+Waling,Others,25.06
+Average composition,Organic Waste,21.73
+Average composition,Plastics,20.76
+Average composition,Paper and Paper Products,44.53
+Average composition,Glass,1.17
+Average composition,Metals,1.22
+Average composition,Textiles,2.07
+Average composition,Rubber and Leather,0.82
+Average composition,Others,7.71
