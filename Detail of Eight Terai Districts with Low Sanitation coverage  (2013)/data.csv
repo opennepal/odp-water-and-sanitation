@@ -1,57 +1,57 @@
-District,Sub Group,Value
-Rautahat ,Population,"686,722"
-Rautahat ,HHs,"106,668"
-Rautahat ,Household without Toilet,"80,485"
-Rautahat ,VDCs,96
-Rautahat ,Municipalities,1
-Rautahat ,Sanitation Coverage %,25
-Rautahat ,% of HHs with flush toilets,11
-Bara ,Population,"687,708"
-Bara ,HHs,"108,635"
-Bara ,Household without Toilet,"78,593"
-Bara ,VDCs,98
-Bara ,Municipalities,1
-Bara ,Sanitation Coverage %,28
-Bara ,% of HHs with flush toilets,17
-Parsa ,Population,"601,017"
-Parsa ,HHs,"95,536"
-Parsa ,Household without Toilet,"62,076"
-Parsa ,VDCs,82
-Parsa ,Municipalities,1
-Parsa ,Sanitation Coverage %,35
-Parsa ,% of HHs with flush toilets,25
-Saptari ,Population,"639,284"
-Saptari ,HHs,"121,098"
-Saptari ,Household without Toilet,"95,950"
-Saptari ,VDCs,114
-Saptari ,Municipalities,1
-Saptari ,Sanitation Coverage %,20
-Saptari ,% of HHs with flush toilets,13
-Siraha ,Population,"637,328"
-Siraha ,HHs,"117,962"
-Siraha ,Household without Toilet,"92,854"
-Siraha ,VDCs,106
-Siraha ,Municipalities,2
-Siraha ,Sanitation Coverage %,21
-Siraha ,% of HHs with flush toilets,13
-Dhanusha ,Population,"754,777"
-Dhanusha ,HHs,"138,249"
-Dhanusha ,Household without Toilet,"89,692"
-Dhanusha ,VDCs,101
-Dhanusha ,Municipalities,2
-Dhanusha ,Sanitation Coverage %,35
-Dhanusha ,% of HHs with flush toilets,18
-Mahottari ,Population,"627,580"
-Mahottari ,HHs,"111,316"
-Mahottari ,Household without Toilet,"80,688"
-Mahottari ,VDCs,76
-Mahottari ,Municipalities,1
-Mahottari ,Sanitation Coverage %,28
-Mahottari ,% of HHs with flush toilets,15
-Sarlahi ,Population,"769,729"
-Sarlahi ,HHs,"132,844"
-Sarlahi ,Household without Toilet,"97,720"
-Sarlahi ,VDCs,99
-Sarlahi ,Municipalities,1
-Sarlahi ,Sanitation Coverage %,26
-Sarlahi ,% of HHs with flush toilets,17
+District,Zone,Geographical Region,Development Region,Sub Group,Value
+Rautahat,Narayani,Terai,Central,Population,"686,722"
+Rautahat,Narayani,Terai,Central,HHs,"106,668"
+Rautahat,Narayani,Terai,Central,Household without Toilet,"80,485"
+Rautahat,Narayani,Terai,Central,VDCs,96
+Rautahat,Narayani,Terai,Central,Municipalities,1
+Rautahat,Narayani,Terai,Central,Sanitation Coverage %,25
+Rautahat,Narayani,Terai,Central,% of HHs with flush toilets,11
+Bara,Narayani,Terai,Central,Population,"687,708"
+Bara,Narayani,Terai,Central,HHs,"108,635"
+Bara,Narayani,Terai,Central,Household without Toilet,"78,593"
+Bara,Narayani,Terai,Central,VDCs,98
+Bara,Narayani,Terai,Central,Municipalities,1
+Bara,Narayani,Terai,Central,Sanitation Coverage %,28
+Bara,Narayani,Terai,Central,% of HHs with flush toilets,17
+Parsa,Narayani,Terai,Central,Population,"601,017"
+Parsa,Narayani,Terai,Central,HHs,"95,536"
+Parsa,Narayani,Terai,Central,Household without Toilet,"62,076"
+Parsa,Narayani,Terai,Central,VDCs,82
+Parsa,Narayani,Terai,Central,Municipalities,1
+Parsa,Narayani,Terai,Central,Sanitation Coverage %,35
+Parsa,Narayani,Terai,Central,% of HHs with flush toilets,25
+Saptari,Sagarmatha,Terai,Eastern,Population,"639,284"
+Saptari,Sagarmatha,Terai,Eastern,HHs,"121,098"
+Saptari,Sagarmatha,Terai,Eastern,Household without Toilet,"95,950"
+Saptari,Sagarmatha,Terai,Eastern,VDCs,114
+Saptari,Sagarmatha,Terai,Eastern,Municipalities,1
+Saptari,Sagarmatha,Terai,Eastern,Sanitation Coverage %,20
+Saptari,Sagarmatha,Terai,Eastern,% of HHs with flush toilets,13
+Siraha,Sagarmatha,Terai,Eastern,Population,"637,328"
+Siraha,Sagarmatha,Terai,Eastern,HHs,"117,962"
+Siraha,Sagarmatha,Terai,Eastern,Household without Toilet,"92,854"
+Siraha,Sagarmatha,Terai,Eastern,VDCs,106
+Siraha,Sagarmatha,Terai,Eastern,Municipalities,2
+Siraha,Sagarmatha,Terai,Eastern,Sanitation Coverage %,21
+Siraha,Sagarmatha,Terai,Eastern,% of HHs with flush toilets,13
+Dhanusa,Janakpur,Terai,Central,Population,"754,777"
+Dhanusa,Janakpur,Terai,Central,HHs,"138,249"
+Dhanusa,Janakpur,Terai,Central,Household without Toilet,"89,692"
+Dhanusa,Janakpur,Terai,Central,VDCs,101
+Dhanusa,Janakpur,Terai,Central,Municipalities,2
+Dhanusa,Janakpur,Terai,Central,Sanitation Coverage %,35
+Dhanusa,Janakpur,Terai,Central,% of HHs with flush toilets,18
+Mahottari,Janakpur,Terai,Central,Population,"627,580"
+Mahottari,Janakpur,Terai,Central,HHs,"111,316"
+Mahottari,Janakpur,Terai,Central,Household without Toilet,"80,688"
+Mahottari,Janakpur,Terai,Central,VDCs,76
+Mahottari,Janakpur,Terai,Central,Municipalities,1
+Mahottari,Janakpur,Terai,Central,Sanitation Coverage %,28
+Mahottari,Janakpur,Terai,Central,% of HHs with flush toilets,15
+Sarlahi,Janakpur,Terai,Central,Population,"769,729"
+Sarlahi,Janakpur,Terai,Central,HHs,"132,844"
+Sarlahi,Janakpur,Terai,Central,Household without Toilet,"97,720"
+Sarlahi,Janakpur,Terai,Central,VDCs,99
+Sarlahi,Janakpur,Terai,Central,Municipalities,1
+Sarlahi,Janakpur,Terai,Central,Sanitation Coverage %,26
+Sarlahi,Janakpur,Terai,Central,% of HHs with flush toilets,17
